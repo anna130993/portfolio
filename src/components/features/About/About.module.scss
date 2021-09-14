@@ -1,14 +1,10 @@
 @import '../../../styles/settings.scss';
 
 .root {
-  .toolbar {
-    display: flex;
-    justify-content: flex-end;
-  }
+  padding: $base-size;
 
-  .title {
+  .text {
     text-transform: uppercase;
-    margin-left: 550px;
     margin-right: auto;
     font-family: 'Playfair Display', serif;
   }

@@ -3,13 +3,11 @@
 .root {
   .toolbar {
     display: flex;
-    justify-content: flex-end;
+    justify-content: center;
   }
 
   .title {
     text-transform: uppercase;
-    margin-left: 550px;
-    margin-right: auto;
     font-family: 'Playfair Display', serif;
   }
 }

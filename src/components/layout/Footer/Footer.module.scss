@@ -6,13 +6,17 @@
   .footer {
     display: flex;
     flex-direction: row;
-    justify-content: space-evenly;
+    justify-content: center;
     align-items: center;
     top: auto;
     background: $secondary;
     color: $white;
   }
   .single {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     padding: 30px;
     width: 400px;
   }
